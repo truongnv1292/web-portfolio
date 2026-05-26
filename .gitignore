@@ -19,6 +19,7 @@ dist-ssr
 # Wrangler / Cloudflare
 .wrangler/
 .dev.vars
+.vercel/
 
 # Editor directories and files
 .vscode/*
@@ -33,3 +34,4 @@ dist-ssr
 
 .pnpm-store
 .pnpm-workspace-state.json  
+.workspace/
