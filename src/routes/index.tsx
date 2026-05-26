@@ -61,9 +61,9 @@ function Index() {
             />
           </div>
           <div className="text-center md:text-left">
-            <p className="text-primary font-medium mb-3">👋 Welcome cac ban</p>
+            <p className="text-primary font-medium mb-3">👋 Welcome</p>
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight leading-tight">
-              Xin chào, tôi là <span className="text-primary">Tên Bạn</span>
+              Xin chào, tôi là <span className="text-primary">Mr DEV 2026</span>
             </h1>
             <p className="mt-4 text-lg text-muted-foreground max-w-xl">
               Nhà phát triển Web tương lai — đam mê kiến tạo những giao diện đẹp, nhanh và thân
